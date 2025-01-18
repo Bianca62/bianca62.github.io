@@ -1,0 +1,14 @@
+{
+    "europe_longest_route": 10,
+    "europe_station_kept": 4,
+    
+    "world_unbuilt_harbor": -4,
+    "world_harbor_single": 20,
+    "world_harbor_double": 30,
+    "world_harbor_triple": 40,
+    
+    "greatLakes_unbuilt_harbor": -4,
+    "greatLakes_harbor_single": 10,
+    "greatLakes_harbor_double": 20,
+    "greatLakes_harbor_triple": 30
+}
